@@ -1,6 +1,5 @@
 test123455
 test vscode
 test ddd
-eee
-git config --global user.email "jjjsss132ohh@gmail.com"
-git config --global user.name "js5h"
+updates
+ddd
